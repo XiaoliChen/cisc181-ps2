@@ -114,11 +114,11 @@ public class MyInteger {
 
         System.out.println("15 is prime? " + MyInteger.isPrime(15));
 
-        char[] chars = {'3', '5', '3', '9'};
+        char[] chars = {'7', '7', '8', '8'};
 
         System.out.println(MyInteger.parseInt(chars));
 
-        String s = "3539";
+        String s = "7788";
 
         System.out.println(MyInteger.parseInt(s));
 
